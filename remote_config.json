@@ -1,1 +1,13 @@
 
+{
+  "showAds":true,
+  "adsInterval":30,
+  "showAppOpenAd":true,
+  "showFirstAd":true,
+  "showTestAds":true,
+  "showBannerAds":true,
+  "interstitialAdUnit":"",
+  "openAppAdUnitId":"",
+  "bannerAdUnit":""
+  
+}
